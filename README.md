@@ -3,7 +3,7 @@
 Code and pretrained checkpoints for our paper:
 
 > **The Missing Piece: A Case for Pre-Training in 3D Medical Object Detection**
-> Katharina Eckstein, Constantin Ulrich, Michael Baumgartner, Jessica Kächele,
+> Katharina Eckstein*, Constantin Ulrich*, Michael Baumgartner, Jessica Kächele,
 > Dimitrios Bounias, Tassilo Wald, Ralf Floca, Klaus H. Maier-Hein
 > MICCAI 2025 · [doi:10.1007/978-3-032-04965-0_58](https://doi.org/10.1007/978-3-032-04965-0_58)
 > · [arXiv:2509.15947](https://arxiv.org/abs/2509.15947)
